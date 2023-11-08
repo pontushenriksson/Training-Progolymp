@@ -1,0 +1,11 @@
+# Ignore 'output.txt' in any subdirectory
+*/output.txt
+
+# Ignore everything in an 'output' directory at any level
+*/output/*
+
+# Ignore files with '.exe' extension in any subdirectory
+*/*.exe
+
+# Ignore the '.vscode' directory at the root
+.vscode/
